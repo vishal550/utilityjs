@@ -1,5 +1,5 @@
 {
-  "name": "utilityjs",
+  "name": "js-utility",
   "version": "1.0.0",
   "description": "Array,string,date etc manuplations",
   "main": "index.js",
