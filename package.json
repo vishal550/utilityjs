@@ -1,0 +1,16 @@
+{
+  "name": "utilityjs",
+  "version": "1.0.0",
+  "description": "Array,string,date etc manuplations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "underscore",
+    "array",
+    "string"
+  ],
+  "author": "vishal patil",
+  "license": "ISC"
+}
